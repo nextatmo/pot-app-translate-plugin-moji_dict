@@ -17,7 +17,7 @@ async function translate(text, from, to, options) {
         "_ClientVersion": "js3.4.1",
         "_ApplicationId": "E62VyFVLMiW7kvbtVq3p",
         "g_os": "PCWeb",
-        "g_ver": "v4.6.4.20230615",
+        "g_ver": "v4.8.8.20240829",
         "_InstallationId": "1f7dbb56-9030-4f32-9645-0df69f86c591",
     };
     const headers = {
